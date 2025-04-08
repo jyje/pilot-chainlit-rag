@@ -1,1 +1,5 @@
 python-decouple < 4.0
+pymilvus < 3.0
+chainlit < 2.5
+langchain-community < 0.4
+langchain-openai < 0.4

@@ -1,1 +1,1 @@
-# template-python-notebook
+# pilot-chainlit-rag
